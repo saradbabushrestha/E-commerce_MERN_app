@@ -5,6 +5,7 @@
   "scripts": {
     "dev": "nodemon backend/server.js",
     "start": "node backend/server.js"
+
   },
   "keywords": [],
   "author": "",
@@ -28,3 +29,4 @@
     "nodemon": "^3.1.7"
   }
 }
+
