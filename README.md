@@ -3,6 +3,16 @@
 This is a comprehensive e-commerce application with integrated MongoDB, Redis, Stripe payment, robust authentication, admin dashboard, sales analytics, and much more. The application follows a modern tech stack, using Node.js, Express, MongoDB, Redis, and Tailwind CSS for design.
 
 ![first](1.png)
+![second](2.png)
+![three](3.png)
+![four](4.png)
+![five](5.png)
+![six](6.png)
+![seven](7.png)
+![eight](8.png)
+![nine](9.png)
+![ten](10.png)
+![eleven](11.png)
 
 ## 🚀 Features
 
